@@ -1,12 +1,15 @@
 package tst;
 
 import static org.junit.Assert.assertArrayEquals;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertNotNull;
+import static org.junit.Assert.fail;
 
 import org.junit.Test;
 
 import app.QuickSort;
 
-public class OrdenacaoTest {
+public class Ordenacao {
 
 	QuickSort q; 
 	

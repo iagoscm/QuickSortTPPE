@@ -15,7 +15,7 @@ public class Particionador {
         this.i = esq;
     }
     
-    public static Particionador getParticiona(int esq, int dir, int[] valores) {
+    public static Particionador getInstancia(int esq, int dir, int[] valores) {
 		return new Particionador(esq, dir, valores);
 	}
 

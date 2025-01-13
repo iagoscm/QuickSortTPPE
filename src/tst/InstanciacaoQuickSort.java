@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import app.QuickSort;
 
-public class InstanciacaoTest {
+public class InstanciacaoQuickSort {
 
 	QuickSort q; 
 	
